@@ -1,4 +1,4 @@
-// @author: 公众号：刘铿
+// @author: 刘铿
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { ConfigProvider } from "antd";

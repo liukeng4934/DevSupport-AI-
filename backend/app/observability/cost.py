@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """Token / 成本统计：按会话与租户记录用量。"""
 
 from sqlalchemy import func, select

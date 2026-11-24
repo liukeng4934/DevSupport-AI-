@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """技术支持工作台接口（内部角色）。"""
 
 import uuid

@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """ORM 模型：对应 PRD 数据模型（§10 / §13）。
 
 所有业务数据真实存储于 MySQL；知识库切片向量存于 Milvus（见 app/rag/store.py）。

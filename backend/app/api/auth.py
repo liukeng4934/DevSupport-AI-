@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """认证接口：登录、当前用户。"""
 
 from fastapi import APIRouter, Depends, HTTPException, status

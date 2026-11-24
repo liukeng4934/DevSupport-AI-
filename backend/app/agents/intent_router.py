@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """Intent Router Agent：意图分类 + 实体抽取 + 推荐路由。"""
 
 import json

@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """LLM 接入层：通义 DashScope（OpenAI 兼容）。
 
 提供 chat（含 function calling）、流式 chat、embedding、rerank。

@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """套餐 / 用量 / 账单查询工具（真实查询 MySQL）。"""
 
 from sqlalchemy import select

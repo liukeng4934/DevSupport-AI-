@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """认证相关 DTO。"""
 
 from pydantic import BaseModel

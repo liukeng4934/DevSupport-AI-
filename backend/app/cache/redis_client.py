@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """Redis 客户端（异步），用于会话记忆、语义缓存、路由缓存。"""
 
 from functools import lru_cache

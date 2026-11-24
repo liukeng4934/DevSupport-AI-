@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """模型分层路由：简单任务走小模型降本降延迟，复杂任务走大模型保质量。"""
 
 from app.config import settings

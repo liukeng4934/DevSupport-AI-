@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """工单查询接口（客户侧：我的工单）+ 反馈接口。"""
 
 from fastapi import APIRouter, Depends, HTTPException

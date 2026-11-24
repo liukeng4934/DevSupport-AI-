@@ -1,4 +1,4 @@
-// @author: 公众号：刘铿
+// @author: 刘铿
 /** 高亮文本中的关键实体：request_id、错误码、接口路径、HTTP 状态码。 */
 const PATTERNS: { re: RegExp; color: string; bg: string }[] = [
   { re: /req_[0-9a-zA-Z_]+/g, color: "#0958d9", bg: "#e6f4ff" }, // request_id

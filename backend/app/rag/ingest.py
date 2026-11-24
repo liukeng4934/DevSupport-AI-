@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """知识库 ingest：读取 markdown → 切片 → 向量化 → 写入 Milvus，并登记文档元信息。"""
 
 import re

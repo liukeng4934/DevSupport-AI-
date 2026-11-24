@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """应用配置：从环境变量 / .env 读取，集中管理。"""
 
 from functools import lru_cache

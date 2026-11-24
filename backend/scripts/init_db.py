@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """建表脚本：创建 MySQL 全部表 + Milvus collection。
 
 用法（在 backend 目录下）：

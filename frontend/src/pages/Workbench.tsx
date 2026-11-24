@@ -1,4 +1,4 @@
-// @author: 公众号：刘铿
+// @author: 刘铿
 import { useEffect, useState } from "react";
 import { Card, Table, Tag, Row, Col, Descriptions, Select, Button, Space, message, Typography, Divider, Input } from "antd";
 import { wbTickets, wbTicketDetail, wbUpdateTicket, getTrace, wbSuggestReply, wbReply } from "../api";

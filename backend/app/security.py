@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """认证安全工具：密码哈希 + JWT 签发/校验。"""
 
 from datetime import datetime, timedelta, timezone

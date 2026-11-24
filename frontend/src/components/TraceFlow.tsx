@@ -1,4 +1,4 @@
-// @author: 公众号：刘铿
+// @author: 刘铿
 import { ReactFlow, Background, Controls, MarkerType } from "@xyflow/react";
 import "@xyflow/react/dist/style.css";
 

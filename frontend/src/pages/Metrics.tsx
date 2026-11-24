@@ -1,4 +1,4 @@
-// @author: 公众号：刘铿
+// @author: 刘铿
 import { useEffect, useState } from "react";
 import { Card, Row, Col, Statistic, Table, Button, message, Descriptions, Spin } from "antd";
 import api, { getMetrics } from "../api";

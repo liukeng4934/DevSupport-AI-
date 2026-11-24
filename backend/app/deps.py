@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """依赖注入：当前用户、角色校验、租户隔离。"""
 
 from dataclasses import dataclass

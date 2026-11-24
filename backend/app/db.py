@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """数据库连接与会话管理。
 
 - 应用运行时：异步引擎（aiomysql）+ AsyncSession。

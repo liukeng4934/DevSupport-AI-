@@ -1,4 +1,4 @@
-// @author: 公众号：刘铿
+// @author: 刘铿
 import { useRef, useState } from "react";
 import { Card, Input, Button, Tag, Space, Typography, Avatar, message as antMsg } from "antd";
 import ReactMarkdown from "react-markdown";

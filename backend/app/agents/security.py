@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """Security Agent：最终回复前的安全审查与脱敏（强制执行）。
 
 - 对最终输出做敏感信息脱敏（API Key/Secret/Token/手机号/邮箱/身份证/签名）。

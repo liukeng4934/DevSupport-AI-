@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """评估与运营指标接口（内部角色）。"""
 
 from fastapi import APIRouter, Depends

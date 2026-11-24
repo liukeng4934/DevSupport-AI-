@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """Supervisor：用 LangGraph 编排多 Agent，串行保证安全审查在最终回复前。
 
 管线：load_context → intent → [clarify?] → specialists(并行) → ticket → summarize → security

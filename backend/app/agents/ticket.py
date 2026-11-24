@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """Ticket Agent：兜底创建工单，附带 AI 诊断摘要与证据。"""
 
 import json

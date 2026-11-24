@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """Agent 通用工具：JSON 解析 + 结构化卡片渲染。"""
 
 import json

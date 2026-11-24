@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """Billing Agent：套餐/调用量/账单解释；高风险商业操作转人工。"""
 
 import json

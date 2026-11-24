@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """工单工具（真实写入 MySQL）+ 高风险操作占位（AI 不可直接执行）。"""
 
 import uuid

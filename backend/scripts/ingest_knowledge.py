@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """知识库 ingest 脚本：把 data/knowledge/*.md 切片向量化写入 Milvus。
 
 用法（backend 目录下）：python -m scripts.ingest_knowledge

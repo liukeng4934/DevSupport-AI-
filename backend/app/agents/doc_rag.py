@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """Doc RAG Agent：检索增强问答。
 
 流程：Query 改写 → 混合检索 → Rerank → 上下文压缩 → 带引用生成 → 无命中兜底。

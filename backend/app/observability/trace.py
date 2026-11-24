@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """AgentTrace 链路采集与持久化。
 
 每次请求生成 trace_id，逐节点记录耗时/token/命中文档/状态，最终落库 agent_trace。

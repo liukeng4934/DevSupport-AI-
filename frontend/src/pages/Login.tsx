@@ -1,4 +1,4 @@
-// @author: 公众号：刘铿
+// @author: 刘铿
 import { useState } from "react";
 import { Card, Form, Input, Button, message, Typography, Tag, Space } from "antd";
 import { useNavigate } from "react-router-dom";

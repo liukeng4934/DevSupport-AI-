@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """LangGraph 编排状态。"""
 
 from typing import Any, TypedDict

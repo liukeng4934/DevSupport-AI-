@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """FastAPI 应用入口。"""
 
 import logging

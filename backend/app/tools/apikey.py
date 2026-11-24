@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """API Key 状态查询工具（真实查询 MySQL）。"""
 
 from datetime import datetime

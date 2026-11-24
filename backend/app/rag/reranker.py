@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """重排序：对混合召回的候选用 gte-rerank-v2 精排，取 top_n。"""
 
 from app.llm import client

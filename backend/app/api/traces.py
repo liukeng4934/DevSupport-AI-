@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """链路观测接口：查询 AgentTrace 与工具调用日志（供前端链路可视化）。"""
 
 from fastapi import APIRouter, Depends, HTTPException

@@ -1,4 +1,4 @@
-// @author: 公众号：刘铿
+// @author: 刘铿
 import { BrowserRouter, Routes, Route, Navigate, Link, useLocation, useNavigate } from "react-router-dom";
 import { Layout, Menu, Button, Typography } from "antd";
 import { currentUser, isInternal, logout } from "./api";

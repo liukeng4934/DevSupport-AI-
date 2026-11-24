@@ -1,4 +1,4 @@
-# @author: 公众号：刘铿
+# @author: 刘铿
 """Milvus 向量存储：knowledge_chunk collection 的管理与检索。
 
 字段：

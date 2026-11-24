@@ -1,4 +1,4 @@
-// @author: 公众号：刘铿
+// @author: 刘铿
 import { useEffect, useState } from "react";
 import { Card, Row, Col, Menu, Tag, Spin, Typography } from "antd";
 import ReactMarkdown from "react-markdown";

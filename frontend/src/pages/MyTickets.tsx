@@ -1,4 +1,4 @@
-// @author: 公众号：刘铿
+// @author: 刘铿
 import { useEffect, useState } from "react";
 import { Card, Table, Tag } from "antd";
 import { myTickets } from "../api";
